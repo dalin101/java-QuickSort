@@ -1,2 +1,0 @@
-# java-QuickSort
-QuickSort implementation
